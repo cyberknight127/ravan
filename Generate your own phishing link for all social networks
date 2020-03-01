@@ -1,0 +1,9 @@
+pkg upgrade 
+pkg install git
+pkg install curl
+pkg install wget
+git clone https://github.com/thelinuxchoice/shellphish.git
+cd shellphish
+chmod +x shellphish.sh
+bash shellphish.sh
+Thank you @RAVAN
