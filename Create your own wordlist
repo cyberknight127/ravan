@@ -1,0 +1,18 @@
+Generate your own wordlist for bruteforce attack .. commands are listed below:
+
+$ Apt update
+$ Apt upgrade
+$ apt install git
+$ Apt install python
+$ apt install python2
+$ Git clone https://github.com/Undeadsec/GoblinWordGenerator
+$ cd GoblinWordGenerator
+$ ls
+$ python3 goblin.py
+  
+Give the length..
+Personal information 
+File name
+Special character choose
+Uppercase choose.. and it generate wordlist
+Thank You!@RAVAN
