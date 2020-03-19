@@ -1,0 +1,11 @@
+How to install - commands
+$ apt update && apt upgrade 
+$ apt install git
+$ apt install python2 
+$ apt install python 
+$ pip2 install dhnspython
+$ git clone https://github.com/guelfoweb/knockgit $ cd knock
+$ python2 setup.py install 
+$
+ knockpy-h
+usage: knockpy [-h] [-v] [-w WORDLIST] [ri] [-c] [-j] domain
